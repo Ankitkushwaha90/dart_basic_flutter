@@ -50,19 +50,19 @@ class Person {
 }
 ```
 ## 🔍 Concepts Covered:
-Variables (String, int, double, bool)
+- Variables (String, int, double, bool)
 
-Functions
+- Functions
 
-Classes and Constructors
+- Classes and Constructors
 
-Object Creation
+- Object Creation
 
-Lists
+- Lists
 
-Loops
+- Loops
 
-Printing
+- Printing
 
 ## 🚀 Next Step for Flutter:
 Once you’re comfortable with this Dart code, try this Flutter Hello World app:
