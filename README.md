@@ -226,14 +226,14 @@ class _CounterPageState extends State<CounterPage> {
 ### 🚀 Next Steps:
 Would you like code for:
 
-Navigation between pages?
+- Navigation between pages?
 
-Form validation?
+- Form validation?
 
-Local/online database (SQLite/Firebase)?
+- Local/online database (SQLite/Firebase)?
 
-API calls using http package?
+- API calls using http package?
 
-Beautiful UIs with ListView.builder, cards, tabs?
+- Beautiful UIs with ListView.builder, cards, tabs?
 
 Let me know what topic you want next, and I’ll share code examples!
